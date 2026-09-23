@@ -75,3 +75,20 @@ Finalmente, el frontend recibe la respuesta del backend y actualiza la interfaz 
 En resumen, el flujo de comunicación es:
 
 Usuario → Frontend → Backend → Base de datos → Backend → Frontend → Usuario
+
+
+# Características principales
+
+La aplicación contará con diferentes características que permitirán a los usuarios utilizar el sistema de manera sencilla, rápida y organizada.
+
+- **Interfaz web:** permite acceder a la aplicación desde un navegador sin necesidad de instalar software adicional.
+- **Registro e inicio de sesión:** permite a los usuarios crear una cuenta e ingresar de forma segura a la aplicación.
+- **Gestión de usuarios:** permite administrar la información correspondiente a cada usuario.
+- **Navegación sencilla:** la aplicación contará con una interfaz clara e intuitiva para facilitar el acceso a sus diferentes secciones.
+- **Gestión de información:** permite consultar, agregar, modificar y eliminar información según las funcionalidades disponibles.
+- **Búsqueda y filtrado:** facilita la localización de información dentro de la aplicación.
+- **Validación de datos:** verifica que la información ingresada por el usuario sea correcta antes de ser procesada.
+- **Comunicación con el servidor:** el frontend se comunica con el backend mediante una API para procesar las diferentes acciones realizadas por los usuarios.
+- **Persistencia de datos:** la información se almacena en una base de datos para poder conservarla y consultarla posteriormente.
+- **Diseño responsive:** la interfaz se adapta a diferentes tamaños de pantalla y dispositivos.
+- **Seguridad:** se implementan mecanismos de autenticación y autorización para proteger el acceso a las funcionalidades y datos de la aplicación.
