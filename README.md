@@ -92,3 +92,51 @@ La aplicación contará con diferentes características que permitirán a los us
 - **Persistencia de datos:** la información se almacena en una base de datos para poder conservarla y consultarla posteriormente.
 - **Diseño responsive:** la interfaz se adapta a diferentes tamaños de pantalla y dispositivos.
 - **Seguridad:** se implementan mecanismos de autenticación y autorización para proteger el acceso a las funcionalidades y datos de la aplicación.
+
+
+# Documentación de la interfaz y navegación
+
+## Interfaz de usuario
+
+La interfaz de la aplicación web está diseñada para permitir que los usuarios puedan acceder a las diferentes funcionalidades de manera clara, rápida y sencilla.
+
+Los elementos de la interfaz se encuentran organizados de forma que las acciones principales sean fácilmente identificables. Se busca mantener una estructura visual consistente en todas las secciones de la aplicación.
+
+Entre los principales elementos de la interfaz se encuentran:
+
+- **Barra de navegación:** permite acceder a las diferentes secciones de la aplicación.
+- **Menú principal:** contiene las opciones disponibles para el usuario.
+- **Botones de acción:** permiten realizar operaciones como crear, editar, eliminar, guardar o cancelar.
+- **Formularios:** permiten ingresar y modificar información.
+- **Tablas y listados:** muestran la información almacenada en el sistema.
+- **Campos de búsqueda:** permiten localizar información específica.
+- **Filtros:** permiten reducir los resultados mostrados según diferentes criterios.
+- **Mensajes de estado:** informan al usuario si una operación fue realizada correctamente o si ocurrió algún error.
+- **Elementos responsive:** permiten que la interfaz pueda adaptarse a diferentes tamaños de pantalla.
+
+## Navegación
+
+La navegación de la aplicación permite desplazarse entre las diferentes páginas y funcionalidades disponibles.
+
+El usuario comienza en la página principal y, dependiendo de las opciones disponibles, puede acceder a las diferentes secciones del sistema.
+
+Un ejemplo del recorrido general de navegación es:
+
+Página de inicio
+       │
+       ├── Iniciar sesión
+       │       │
+       │       └── Panel principal
+       │               │
+       │               ├── Gestión de usuarios
+       │               │
+       │               ├── Gestión de información
+       │               │
+       │               ├── Búsqueda y filtros
+       │               │
+       │               └── Configuración
+       │
+       └── Registrarse
+               │
+               └── Crear cuenta
+````
