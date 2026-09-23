@@ -162,3 +162,27 @@ La información obtenida o modificada es enviada nuevamente al frontend, donde s
 - Manejo de errores y mensajes al usuario.
 - Cierre de sesión.
 
+
+# Tecnologías utilizadas
+
+Para el desarrollo de la aplicación web se utilizan diferentes tecnologías y herramientas que permiten construir las distintas partes del sistema.
+
+## Frontend
+
+- **HTML:** utilizado para crear la estructura de las páginas.
+- **CSS:** utilizado para diseñar y dar estilo a la interfaz.
+- **JavaScript:** utilizado para agregar interacción y funcionalidades dinámicas.
+
+## Backend
+
+- **Node.js:** utilizado para ejecutar el servidor y procesar las solicitudes de la aplicación.
+
+## Base de datos
+
+- **MySQL:** utilizada para almacenar y gestionar la información de la aplicación.
+
+## Herramientas
+
+- **Git:** utilizado para controlar las versiones del proyecto.
+- **GitHub:** utilizado para almacenar y compartir el código.
+- **Visual Studio Code:** utilizado como entorno de desarrollo.
