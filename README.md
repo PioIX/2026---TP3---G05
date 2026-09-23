@@ -139,4 +139,26 @@ Página de inicio
        └── Registrarse
                │
                └── Crear cuenta
-````
+
+
+# Funcionamiento de la aplicación web
+
+La aplicación web permite a los usuarios acceder a sus diferentes funcionalidades mediante un navegador.
+
+El usuario interactúa con la interfaz y realiza acciones como registrarse, iniciar sesión, consultar información, realizar búsquedas y gestionar datos.
+
+El frontend recibe las acciones del usuario y se comunica con el backend mediante una API. El backend procesa las solicitudes, valida los datos y se comunica con la base de datos cuando es necesario.
+
+La información obtenida o modificada es enviada nuevamente al frontend, donde se muestra el resultado al usuario.
+
+## Principales funciones
+
+- Registro e inicio de sesión de usuarios.
+- Consulta y gestión de información.
+- Búsqueda y filtrado de datos.
+- Validación de información ingresada.
+- Comunicación entre frontend y backend mediante una API.
+- Almacenamiento de información en una base de datos.
+- Manejo de errores y mensajes al usuario.
+- Cierre de sesión.
+
